@@ -10,7 +10,7 @@
 <br/>
 
 I'm Muhamad Amrizal Nahar, bachelor of Computer Science in Informatics Department.
-I'm Currently learning about tailwindcss, vuejs, codeigniter, and laravel frameworks.
+I'm Currently learning about tailwind, codeigniter, and laravel frameworks.
 
 ## Quick overview
 * GitHub stats:  
